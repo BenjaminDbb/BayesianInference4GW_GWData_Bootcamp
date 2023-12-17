@@ -162,6 +162,7 @@ def main():
         # plot proposed function
         if (i % 10) == 0:
             print(f"progress i={i}\tlogZ={logZ_upper:.6f}\tdlogz={dlogz:.6f}\tn_accept={n_accept}\tn_reject={n_reject}")
+            print(theta_live[0,:])
 
     # Resample results with proper weights to obtain posteriors
     N_resample = 10000
@@ -175,5 +176,5 @@ def main():
         theta_posterior[i,:] = theta[resample_idx[i],:]
 
 if __name__== "__main__":
-  main()
+    main()
 
