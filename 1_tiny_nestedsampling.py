@@ -162,12 +162,6 @@ def main():
         # plot proposed function
         if (i % 10) == 0:
             print(f"progress i={i}\tlogZ={logZ_upper:.6f}\tdlogz={dlogz:.6f}\tn_accept={n_accept}\tn_reject={n_reject}")
-            # print("    logZ=", logZ_upper)
-            # print("    dlogz=", dlogz)
-            # print("    n_accept=", n_accept, " n_reject=", n_reject)
-            # print("    theta=", theta[i,:])
-            # print("    step=", step)
-
 
     # Resample results with proper weights to obtain posteriors
     N_resample = 10000
