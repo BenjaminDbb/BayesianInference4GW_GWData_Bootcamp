@@ -1,0 +1,1 @@
+https://emcee.readthedocs.io/en/stable/tutorials/line/
