@@ -1,5 +1,7 @@
 # BayesianInference4GW_GWData_Bootcamp
 
+The complete materials for the `Gravitational Wave Data Exploration: A Practical Training in Programming and Analysis` can be found in this [GitHub repo](https://github.com/iphysresearch/GWData-Bootcamp).
+
 ## Talk: Bayesian inference for gravitational-wave science
 
 ### About the authors
