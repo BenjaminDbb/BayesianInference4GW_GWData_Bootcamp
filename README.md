@@ -2,6 +2,40 @@
 
 The complete materials for the `Gravitational Wave Data Exploration: A Practical Training in Programming and Analysis` can be found in this [GitHub repo](https://github.com/iphysresearch/GWData-Bootcamp).
 
+
+- **Sci Talk**: _Bayesian inference for gravitational-wave science_ (Guest Lecture by [Junjie Zhao](https://orcid.org/0000-0002-9233-3683))
+    <details>
+    <summary>Description</summary>
+  
+        - Brief introduction to gravitational wave (引力波简要介绍)
+        - Part I: Bayesian inference (贝叶斯推断)
+            - Definition of “probability” ("概率"的定义)
+            - Rethink the interpretations (重思概率诠释)
+                - Frequentist statistics (频率学派)
+                - Bayesian statistics (贝叶斯学派)
+            - Bayes' theorem (贝叶斯定理)
+                - Application to the detection of gravitational wave (在引力波探测上应用)
+            - Bayesian inference framework (贝叶斯推断框架)
+                - Parameter estimation for gravitational-wave data (引力波数据分析中参数估计)
+                - Model selection for gravitational-wave data (引力波数据分析中模型选择)
+        - Q & A
+        - Part II: Bayesian computation (贝叶斯计算方法)
+            - Markov Chain Monte Carlo (MCMC; 马尔可夫链-蒙特卡罗方法)
+                - hands-on tiny mcmc example
+            - Nested sampling (嵌套采样)
+                - hands-on tiny nested-sampling example
+        - Part III: All in gravitational-wave data (一切尽在引力波数据中)
+            - Use Bilby & Parallel Bilby in the GW data analysis
+            - nShow the complete pipeline for the data analysis
+        - The AMAZING Thomas Bayes (为美好的世界献上"贝叶斯定理")
+        - Q & A
+  
+    </details>
+
+  - Date：[2023/12/16](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/README.md) | Video [recording](https://meeting.tencent.com/v2/cloud-record/share?id=eb4e542d-a49d-4b38-ad1d-1d362ecddbea&from=3) | Slide: [PDF](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/Junjie%20-%202023%20-%20bayesian%20for%20GWData-Bootcamp.pdf)
+  - Date：[2023/12/17](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/README.md) | Video [recording](https://meeting.tencent.com/v2/cloud-record/share?id=11e13d08-ed8a-4455-a373-6df7bcc0d43a&from=3) | Slide: [PDF](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/Junjie%20-%202023%20-%20bayesian%20for%20GWData-Bootcamp.pdf)
+
+
 ## Talk: Bayesian inference for gravitational-wave science
 
 ### About the authors
