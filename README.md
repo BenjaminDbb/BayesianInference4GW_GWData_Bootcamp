@@ -32,8 +32,8 @@ The complete materials for the `Gravitational Wave Data Exploration: A Practical
   
     </details>
 
-  - Date：[2023/12/16](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/README.md) | Video [recording](https://meeting.tencent.com/v2/cloud-record/share?id=eb4e542d-a49d-4b38-ad1d-1d362ecddbea&from=3) | Slide: [PDF](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/Junjie%20-%202023%20-%20bayesian%20for%20GWData-Bootcamp.pdf)
-  - Date：[2023/12/17](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/README.md) | Video [recording](https://meeting.tencent.com/v2/cloud-record/share?id=11e13d08-ed8a-4455-a373-6df7bcc0d43a&from=3) | Slide: [PDF](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/Junjie%20-%202023%20-%20bayesian%20for%20GWData-Bootcamp.pdf)
+  - Date：[2023/12/16](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/README.md) | Video [bilibili](https://www.bilibili.com/video/BV1Yk4y1Q74Q/) | Slide: [PDF](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/Junjie%20-%202023%20-%20bayesian%20for%20GWData-Bootcamp.pdf)
+  - Date：[2023/12/17](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/README.md) | Video [bilibili](https://www.bilibili.com/video/BV19K411v7Sv/) | Slide: [PDF](https://github.com/BenjaminDbb/BayesianInference4GW_GWData_Bootcamp/blob/main/Junjie%20-%202023%20-%20bayesian%20for%20GWData-Bootcamp.pdf)
 
 
 ## Talk: Bayesian inference for gravitational-wave science
